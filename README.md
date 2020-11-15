@@ -1,2 +1,2 @@
 # springCore 
-Starting with spering core
+Starting with spring core
